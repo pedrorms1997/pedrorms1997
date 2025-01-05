@@ -29,7 +29,7 @@ Atualmente, trabalho com **automação de processos**, **análise de dados** e *
 - Melhorias em processos com modelagem **BPMN**.
 - Utilização de serviços na **AWS** para hospedar e gerenciar aplicações.
 
-#### 🌟 Conhecimentos novos:
+#### 🌟 Estudos que estou iniciando:
 - **React** para criar aplicações web interativas e modernas.
 - **Rust** para desenvolvimento de aplicações de alta performance e segurança.
 
