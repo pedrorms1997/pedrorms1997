@@ -16,15 +16,22 @@ Atualmente, trabalho com **automação de processos**, **análise de dados** e *
   <img align="center" alt="Pedro-Flask" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="Pedro-Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Pedro-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Pedro-AWS" height="40" width="40" src="https://www.svgrepo.com/show/448266/aws.svg">
 </div>
 
 ---
 
 ### 🌱 O que eu estou aprendendo?
-Atualmente, estou aprimorando minhas habilidades em:
-- Desenvolvimento de APIs avançadas com Python.
+
+#### 🛠️ Conhecimentos sendo aprimorados:
+- **Desenvolvimento de APIs avançadas com Python** (Flask e Django).
 - **Análise de dados** e criação de dashboards interativos com Power BI.
-- Melhorias em processos com modelagem BPMN.
+- Melhorias em processos com modelagem **BPMN**.
+- Utilização de serviços na **AWS** para hospedar e gerenciar aplicações.
+
+#### 🌟 Conhecimentos novos:
+- **React** para criar aplicações web interativas e modernas.
+- **Rust** para desenvolvimento de aplicações de alta performance e segurança.
 
 ---
 
