@@ -43,11 +43,3 @@ Atualmente, trabalho com **automação de processos**, **análise de dados** e *
 </div>
 
 ---
-
-### 📊 GitHub Stats:
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrorms1997&show_icons=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorms1997&layout=compact&theme=dark" />
-</div>
-
----
