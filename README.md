@@ -1,13 +1,8 @@
 # Olá, eu sou Pedro Moraes! 👋
 
-### Analista de Processos e Desenvolvedor Fullstack 🚀
+### Hello World!
 
-Atualmente, trabalho com **automação de processos**, **análise de dados** e **desenvolvimento web**. Tenho experiência em tecnologias como Python (Flask, Django), APIs, SQL, Web Scraping e modelagem de processos (BPMN). Sou apaixonado por otimizar sistemas, criar soluções eficientes e compartilhar conhecimento.
 
----
-
-### 🌟 Minhas Competências:
-<div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Pedro-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,23 +12,7 @@ Atualmente, trabalho com **automação de processos**, **análise de dados** e *
   <img align="center" alt="Pedro-Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Pedro-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Pedro-AWS" height="40" width="40" src="https://www.svgrepo.com/show/448266/aws.svg">
-</div>
 
----
-
-### 🌱 O que eu estou aprendendo?
-
-#### 🛠️ Conhecimentos sendo aprimorados:
-- **Desenvolvimento de APIs avançadas com Python** (Flask e Django).
-- **Análise de dados** e criação de dashboards interativos com Power BI.
-- Melhorias em processos com modelagem **BPMN**.
-- Utilização de serviços na **AWS** para hospedar e gerenciar aplicações.
-
-#### 🌟 Estudos que estou iniciando:
-- **React** para criar aplicações web interativas e modernas.
-- **Rust** para desenvolvimento de aplicações de alta performance e segurança.
-
----
 
 ### 📫 Entre em contato comigo!
 
