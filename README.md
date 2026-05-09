@@ -1,24 +1,48 @@
-# Hello World
+# Olá, eu sou o Pedro Rodrigues 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Pedro-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Pedro-Flask" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Pedro-Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Pedro-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Pedro-AWS" height="40" width="40" src="https://www.svgrepo.com/show/448266/aws.svg">
-</div>
+Desenvolvedor Python com foco em **automação de processos**, **backends robustos** e **integração de sistemas**. Transformo fluxos manuais e repetitivos em soluções inteligentes.
 
 ---
 
-### 📫 Entre em contato comigo!
+## 🚀 Sobre mim
+
+- 🏥 Atuo com automação de processos
+- ⚙️ Crio soluções end-to-end: do **scraping e automação web** (Playwright) ao **backend** (Django / FastAPI) e **cloud** (AWS)
+- 🧠 Tenho experiência com sistemas legados e mainframes, integrando-os com tecnologias modernas via TN3270 (py3270 / wc3270)
+- 📦 Trabalho com **Docker**, arquiteturas orientadas a microsserviços e deploy em **EC2**, armazenamento em **S3** e banco de dados **DynamoDB**
+- 🗄️ Construo queries SQL complexas com CTEs, análises e relatórios operacionais em **PostgreSQL**
+- 
+---
+
+## 🛠️ Stack principal
+
+**🐍 Backend & Frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi)](https://skillicons.dev)
+
+**🗄️ Banco de Dados & Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,aws,docker,dynamodb)](https://skillicons.dev)
+
+**🌐 Frontend & Ferramentas**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
+
+---
+
+## 🔍 O que você encontra por aqui
+
+- 🤖 **Automações** — scripts e bots que substituem tarefas manuais e repetitivas
+- 🏗️ **Backends** — APIs REST com Django e FastAPI, bem estruturadas e documentadas
+- 🔗 **Integrações** — sistemas legados, APIs externas, ERPs e portais governamentais
+- 📊 **SQL & Relatórios** — queries avançadas, dashboards operacionais e análise de dados
+- ☁️ **Cloud** — infraestrutura AWS com foco em praticidade e custo-benefício
+
+---
+
+## 📫 Entre em contato comigo!
 
 <div>
   <a href="mailto:pedrorms.contato@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pedro-rodrigues-m-b69704101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
----
