@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Rodrigues 👋
+# Olá, eu sou o Pedro Moraes 👋
 
 Desenvolvedor Python com foco em **automação de processos**, **backends robustos** e **integração de sistemas**. Transformo fluxos manuais e repetitivos em soluções inteligentes.
 
